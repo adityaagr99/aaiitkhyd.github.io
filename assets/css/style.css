@@ -711,10 +711,6 @@ footer {
 
   #intro { height: 65vh; }
 
-  #video iframe {
-    margin-top: 42px;
-  }
-
   #contact .contact_detail {
   background: #ffffff;
   padding: 10rem 3rem 10rem 5rem;
