@@ -1,9 +1,15 @@
 
  /* jQuery Pre loader
   -----------------------------------------------*/
+  /*
 $(window).load(function(){
     $('.preloader').fadeOut(1000); // set duration in brackets    
 });
+*/
+setTimeout(function() {
+    $('.preloader').fadeOut(1000); // set duration in brackets    
+    console.log("Done PreLoading");
+}, 1000);
 
 
 /* Mobile Navigation
