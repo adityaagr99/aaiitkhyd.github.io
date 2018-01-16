@@ -756,3 +756,17 @@ footer {
 
 }
 
+.quotec {
+  height: 130px;
+  display: table-cell;
+  vertical-align: middle;
+  position: relative;
+}
+.quoteAuth {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.quotec div:first-child {
+  text-align: center;
+}
