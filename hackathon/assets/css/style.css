@@ -481,6 +481,11 @@ footer {
   padding-bottom: 8rem;
 }
 
+#about {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+
 #faq .panel-group {
   margin-top: 32px;
 }
@@ -696,6 +701,10 @@ footer {
 }
 
 
+#about li {
+  margin: 40px 0;
+}
+
 
 /*---------------------------------------
    Responsive styles            
@@ -713,6 +722,9 @@ footer {
 	line-height: 20px;
   }
 
+  #about li {
+    margin: 25px 0;
+  }
   #intro { height: 65vh; }
 
   #contact .contact_detail {
