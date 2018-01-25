@@ -9,7 +9,7 @@ $(window).load(function(){
 setTimeout(function() {
     $('.preloader').fadeOut(1000); // set duration in brackets    
     console.log("Done PreLoading");
-}, 1000);
+}, 100);
 
 
 /* Mobile Navigation
